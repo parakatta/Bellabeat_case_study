@@ -1,8 +1,8 @@
 # Bellabeat - a case study
 Google Data Analytics Capstone Project
-This is a Bellabeat data analysis case study titled “How Can a Wellness Technology Company Play It Smart?” in Google’s eight-course Data Analytics Professional Certificate program.  
+This is a Bellabeat data analysis case study titled “How Can a Wellness Technology Company Play It Smart?” in Google’s Data Analytics Professional Certification program.  
 
-In this case study, I assumed the role of a junior data analyst of the marketing analytics team at Bellabeat, a high-tech manufacturer of health-focused products for women.  
+In this case study, I assumed the role of a junior data analyst of the marketing analytics team at [Bellabeat](https://bellabeat.com/), a high-tech manufacturer of health-focused products for women.  
 
 Using tools such as BigQuery, Google Sheets, Kaggle Notebooks and Tableau, I conducted an analysis of Fitbit usage dataset generated on 2016. The data analysis was conducted in six phases :
 > #### ASK  
@@ -10,7 +10,9 @@ Using tools such as BigQuery, Google Sheets, Kaggle Notebooks and Tableau, I con
 > #### PROCESS  
 > #### ANALYZE  
 > #### SHARE  
-> #### ACT
+> #### ACT  
+
+To check the complete case study with code implementation and detailed analysis steps, refer my [kaggle notebook] (https://www.kaggle.com/code/aleemaparakatta/case-study-bellabeat)
 ### About the company  
 
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products.
@@ -36,20 +38,21 @@ There are evident null values, and datatype constraints where the hours are give
 ![Screenshot_20221210_142049](https://user-images.githubusercontent.com/83866928/207061655-aea0c0a8-3cd7-4060-b239-a53cf74f358d.png)
 
 
-From this analysis,  
-* The users tend to have a sedentary lifestyle, with peak activity days in mid-week compared to weekend. 
-* The users enjoy fitness or calorie burning activities in the late evenings than mornings. This could be an insight for promoting activity during the other hours of the day to achieve overall fairly active lifestyle in addition to focusing on an intense fitness session at a specific part of day.
-* The sleep schedule of the users are great, where we see calories burnt in early mornings. This could be a sign of good sleep. This is a basic assumption.  
-* # **ACT**
-I came to a few conclusions that could further improve and help towards Bellabeat's overall growth.  
+From this analysis,   
+* The users tend to have a sedentary lifestyle, with peak activity hours in mid-week compared to weekends. 
+* The users enjoy fitness or calorie burning activities in the late evenings than mornings. This could be an insight for promoting activity during other hours of the day to achieve overall fairly active lifestyle in addition to focusing on an intense fitness session at a specific part of day.
+* The sleep schedule of the users are great, where we see calories burnt in early mornings. This could be a sign of good sleep. This is a basic assumption.
+
+# **ACT**
+I came to a few conclusions that could further improve and ameliorate Bellabeat's overall growth.  
 
 From this analysis,  
-* The users tend to have a sedentary lifestyle, with peak activity days in mid-week compared to weekend. Bellabeat could improve this by motivating light workouts or active hours on weekends. 
+* The users tend to have a sedentary lifestyle, with peak activity hours in mid-week compared to weekends. Bellabeat could improve this by motivating light workouts or active hours on weekends. 
 * The users enjoy fitness or calorie burning activities in the late evenings than mornings. This implies that other than an intense fitness session at a specific part of day, periodic notifications or nudges could remind the users to move about or stand to achieve overall fairly active lifestyle.
 
-Bellabeat could have a reminder or track the hours without any activity and generate reports that users can go through. This could help them stay motivated.
+Bellabeat could have a reminder or track the hours of inactivity and generate reports that users can monitor and go through. This could help them stay motivated.
 Hourly standing or moving about can increase blood circulation and cause an end to continuous inactivity. 
 Motivation like these can help overall lifestyle changes from sedentary to fairly active. 
 A fairly active lifestyle can contribute to increased rest period during sleep hours and induce deep sleep.
-This also include fitness activities outside the said weekdays. Bellabeat could notify the user to stay motivated even on weekends. 
+This also includes fitness activities outside the said weekdays. Bellabeat could notify the user to stay motivated even on weekends.
 
