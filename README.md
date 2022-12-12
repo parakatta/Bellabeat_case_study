@@ -12,7 +12,7 @@ Using tools such as BigQuery, Google Sheets, Kaggle Notebooks and Tableau, I con
 > #### SHARE  
 > #### ACT  
 
-To check the complete case study with code implementation and detailed analysis steps, refer my [kaggle notebook] (https://www.kaggle.com/code/aleemaparakatta/case-study-bellabeat)
+To check the complete case study with code implementation and detailed analysis steps, refer my [kaggle notebook](https://www.kaggle.com/code/aleemaparakatta/case-study-bellabeat)
 ### About the company  
 
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products.
